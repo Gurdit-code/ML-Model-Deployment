@@ -1,0 +1,801 @@
+City,Location,BHK,Area_sqft,Bathrooms,Age,Price_Lakh
+Jaipur,Vaishali Nagar,1,710,1,4,36.04
+Mumbai,Andheri,2,1090,1,17,167.6
+Noida,Sector 62,3,880,3,10,88.49
+Pune,Wakad,3,1670,3,17,107.65
+Kochi,Vyttila,3,1540,2,21,62.89
+Mohali,Sector 88,3,1130,3,11,87.06
+Bengaluru,Yelahanka,3,890,3,8,118.51
+Noida,Sector 62,2,640,2,12,59.13
+Jaipur,Jagatpura,2,1470,2,4,77.42
+Kochi,Thrippunithura,2,820,2,16,43.55
+Jaipur,Jagatpura,3,1160,4,14,90.07
+Jaipur,C-Scheme,3,1620,3,3,92.77
+Kolkata,Salt Lake,3,820,3,20,78.07
+Kochi,Thrippunithura,4,1660,4,0,113.39
+Chandigarh,Sector 48,4,900,4,2,147.77
+Bengaluru,HSR Layout,3,1420,3,17,129.51
+Pune,Kharadi,4,1440,4,7,107.38
+Lucknow,Gomti Nagar,2,1460,2,2,80.31
+Kochi,Thrippunithura,3,980,3,25,53.48
+Gurgaon,Sohna Road,3,1880,2,1,157.73
+Chennai,Adyar,2,870,2,2,89.99
+Gurgaon,Sohna Road,5,2470,5,5,207.09
+Mumbai,Powai,2,1350,2,9,192.04
+Bengaluru,Electronic City,2,1520,3,23,99.57
+Gurgaon,MG Road,2,1510,1,5,136.73
+Ahmedabad,Bopal,3,740,2,13,75.62
+Pune,Baner,2,730,2,14,74.52
+Delhi,Dwarka,3,1300,3,11,165.57
+Lucknow,Indira Nagar,3,1880,4,0,127.5
+Mohali,Sector 70,4,1870,4,8,125.23
+Kolkata,Rajarhat,2,1460,1,2,85.55
+Mohali,Sector 80,3,1360,3,17,78.06
+Gurgaon,Sector 57,3,870,3,1,145.32
+Chandigarh,Sector 22,3,1120,4,13,131.53
+Noida,Sector 137,4,810,4,25,80.58
+Noida,Sector 62,2,650,2,7,74.56
+Chandigarh,Sector 34,3,1170,3,2,150.32
+Kolkata,Behala,4,940,4,5,100.21
+Noida,Sector 150,3,1880,2,12,121.97
+Noida,Sector 78,3,1830,3,11,127.28
+Delhi,Saket,3,1500,3,12,153.71
+Lucknow,Aliganj,3,1050,4,0,78.9
+Chennai,Tambaram,3,1310,3,21,93.05
+Noida,Sector 137,3,960,3,4,84.7
+Hyderabad,Kukatpally,2,1260,2,12,89.27
+Delhi,Vasant Kunj,2,1370,3,14,143.81
+Jaipur,C-Scheme,5,1890,5,19,125.13
+Bengaluru,Indiranagar,3,1600,3,24,124.18
+Chandigarh,Sector 35,2,1450,1,4,120.17
+Pune,Viman Nagar,3,770,3,12,88.99
+Hyderabad,Miyapur,1,770,1,13,54.11
+Mohali,Sector 88,3,1160,3,23,55.26
+Hyderabad,Kukatpally,3,720,3,4,91.02
+Pune,Kharadi,2,1500,2,8,118.03
+Chandigarh,Sector 34,3,1480,2,7,134.92
+Ahmedabad,Bopal,3,1000,3,5,90.22
+Mohali,Sector 70,3,1810,4,21,120.27
+Gurgaon,Golf Course Road,2,1340,3,25,110.34
+Pune,Hinjewadi,3,1100,3,15,95.06
+Hyderabad,Madhapur,3,1860,3,19,130.84
+Mohali,Sector 67,4,2000,3,8,133.03
+Mumbai,Powai,4,1040,4,11,199.8
+Mumbai,Borivali,4,900,4,15,185.7
+Mumbai,Andheri,2,990,2,9,185.16
+Kolkata,Behala,2,1040,2,8,79.46
+Lucknow,Aliganj,2,1300,2,23,46.44
+Mohali,Sector 80,2,890,3,4,66.1
+Gurgaon,Dwarka Expressway,2,620,2,15,106.15
+Delhi,Dwarka,2,680,1,4,110.94
+Noida,Sector 75,3,1650,3,24,101.97
+Mohali,Kharar,3,1430,2,24,72.23
+Delhi,Rohini,1,830,2,15,104.48
+Jaipur,Malviya Nagar,4,1940,5,21,101.8
+Mohali,Sector 80,1,640,1,19,36.97
+Lucknow,Hazratganj,4,1510,4,14,77.2
+Delhi,Rohini,5,2310,5,18,226.55
+Noida,Sector 137,3,1480,3,5,121.51
+Hyderabad,Kondapur,2,710,2,10,81.39
+Mumbai,Powai,2,850,1,24,147.22
+Hyderabad,Gachibowli,2,950,2,20,70.6
+Kochi,Aluva,2,1520,3,25,49.6
+Gurgaon,Sohna Road,3,830,3,15,116.7
+Chennai,Adyar,3,870,3,19,88.44
+Hyderabad,Kondapur,4,1520,3,9,143.67
+Chennai,Porur,3,1090,4,12,88.06
+Chandigarh,Sector 44,1,1030,1,12,104.92
+Bengaluru,Yelahanka,5,1430,4,14,155.38
+Bengaluru,Whitefield,3,1860,3,19,142.4
+Hyderabad,Kondapur,3,1760,3,17,112.17
+Lucknow,Gomti Nagar,3,810,2,14,39.0
+Pune,Wakad,3,990,3,18,77.57
+Jaipur,Malviya Nagar,3,1400,3,14,76.71
+Mohali,Kharar,2,1030,2,18,56.15
+Hyderabad,Miyapur,2,970,2,18,64.45
+Mumbai,Borivali,4,1920,3,19,223.9
+Noida,Sector 150,2,790,2,21,55.82
+Jaipur,Vaishali Nagar,2,1020,3,11,48.34
+Bengaluru,Yelahanka,4,1310,5,8,154.71
+Lucknow,Indira Nagar,3,1260,2,4,76.71
+Gurgaon,MG Road,2,1350,1,8,125.2
+Gurgaon,Sector 57,2,830,1,19,89.15
+Gurgaon,Dwarka Expressway,4,1220,4,3,149.19
+Kochi,Thrippunithura,2,1040,3,13,68.1
+Ahmedabad,Maninagar,4,1180,4,6,127.04
+Kolkata,Behala,1,710,1,14,30.53
+Pune,Baner,5,2230,5,2,182.18
+Noida,Sector 137,3,1410,3,4,130.55
+Bengaluru,Whitefield,2,1350,3,10,97.39
+Delhi,Vasant Kunj,3,1130,4,3,165.19
+Jaipur,C-Scheme,2,1210,1,1,77.09
+Chennai,Velachery,4,1250,4,2,117.92
+Ahmedabad,Thaltej,2,1090,2,3,86.56
+Gurgaon,Golf Course Road,3,1760,3,10,158.91
+Mohali,Sector 67,4,1790,4,2,116.57
+Bengaluru,Yelahanka,1,1170,2,10,91.86
+Kochi,Kakkanad,5,1900,5,3,132.19
+Gurgaon,MG Road,2,1330,3,7,139.24
+Jaipur,C-Scheme,1,1150,1,0,42.85
+Gurgaon,Golf Course Road,3,1170,3,23,121.37
+Pune,Baner,2,1290,3,19,78.56
+Mohali,Sector 88,3,1280,3,13,80.53
+Jaipur,C-Scheme,3,1500,2,7,77.82
+Bengaluru,HSR Layout,2,720,2,23,78.58
+Jaipur,Mansarovar,1,1110,1,13,36.75
+Lucknow,Hazratganj,2,990,2,5,49.33
+Gurgaon,Sohna Road,2,1160,3,2,122.2
+Kolkata,New Town,3,920,3,11,81.3
+Chandigarh,Sector 22,3,1610,2,5,154.83
+Jaipur,C-Scheme,3,1880,3,20,87.77
+Ahmedabad,Satellite,2,680,2,14,64.66
+Delhi,Janakpuri,3,1160,4,17,138.81
+Chandigarh,Sector 35,3,1300,2,14,119.88
+Bengaluru,Whitefield,2,1020,2,16,91.24
+Pune,Viman Nagar,1,950,1,2,79.63
+Kochi,Thrippunithura,4,1260,5,21,83.29
+Ahmedabad,Satellite,2,960,2,4,79.99
+Jaipur,Jagatpura,3,710,3,5,76.31
+Bengaluru,Whitefield,2,1350,3,24,102.63
+Ahmedabad,Bopal,3,880,3,22,67.45
+Jaipur,Malviya Nagar,5,1920,5,7,142.47
+Pune,Viman Nagar,5,1660,5,24,137.16
+Bengaluru,HSR Layout,1,850,1,17,65.06
+Bengaluru,HSR Layout,3,1310,3,2,125.24
+Mumbai,Powai,3,980,2,11,172.22
+Bengaluru,Electronic City,1,1140,1,22,81.05
+Mumbai,Thane,2,750,3,16,157.07
+Jaipur,C-Scheme,3,820,3,19,46.75
+Mumbai,Borivali,2,1150,2,21,159.66
+Noida,Sector 78,3,1160,3,1,115.7
+Pune,Baner,3,1450,4,23,104.12
+Gurgaon,Dwarka Expressway,5,1690,5,25,169.08
+Noida,Sector 137,4,1240,4,16,118.7
+Mohali,Sector 67,4,840,4,8,102.52
+Hyderabad,Kondapur,5,1720,5,11,154.55
+Ahmedabad,Bopal,3,1080,2,10,90.97
+Pune,Kharadi,1,1110,1,19,50.92
+Jaipur,Jagatpura,2,1360,2,0,67.63
+Noida,Sector 150,2,1500,1,19,68.19
+Bengaluru,Yelahanka,2,910,2,7,105.11
+Delhi,Saket,3,1540,3,19,161.87
+Chennai,Adyar,4,1430,3,25,96.58
+Kolkata,Behala,4,2030,4,25,107.03
+Chennai,Velachery,2,1150,2,25,73.75
+Lucknow,Hazratganj,3,1620,4,2,87.44
+Bengaluru,Yelahanka,3,910,3,13,106.52
+Bengaluru,HSR Layout,4,1100,5,9,127.94
+Mohali,Kharar,3,1300,3,18,86.39
+Gurgaon,MG Road,1,1110,1,1,114.29
+Ahmedabad,Satellite,3,1450,3,20,93.19
+Delhi,Dwarka,2,1000,2,6,144.15
+Pune,Kharadi,2,960,3,3,80.44
+Mohali,Sector 88,4,1390,4,10,126.5
+Chennai,Tambaram,4,1510,3,12,110.91
+Chennai,Porur,4,1740,4,9,136.72
+Noida,Sector 75,2,990,3,17,72.84
+Mohali,Kharar,3,830,2,12,67.46
+Ahmedabad,Thaltej,2,650,1,4,71.91
+Bengaluru,HSR Layout,4,1240,4,19,118.56
+Lucknow,Sushant Golf City,2,1380,2,10,68.75
+Lucknow,Gomti Nagar,3,1010,4,18,59.7
+Noida,Sector 75,2,1250,1,18,71.52
+Lucknow,Aliganj,2,1340,2,23,59.0
+Chennai,Porur,2,1510,2,17,83.93
+Lucknow,Indira Nagar,3,920,3,8,64.16
+Chandigarh,Sector 44,2,940,2,9,108.11
+Noida,Sector 137,2,880,1,11,78.83
+Mohali,Kharar,3,860,4,23,68.51
+Mumbai,Andheri,2,1280,1,21,160.73
+Kochi,Aluva,3,930,3,10,62.34
+Lucknow,Gomti Nagar,4,1030,4,1,100.83
+Kochi,Vyttila,4,780,5,19,69.03
+Chennai,Adyar,4,1460,4,25,90.67
+Lucknow,Indira Nagar,3,1380,3,5,82.13
+Hyderabad,Gachibowli,2,740,2,7,76.86
+Ahmedabad,Thaltej,1,970,1,1,75.39
+Kochi,Vyttila,3,1460,3,11,91.11
+Ahmedabad,Vastrapur,2,1130,2,24,68.85
+Gurgaon,Sohna Road,3,1330,3,2,146.28
+Kolkata,Salt Lake,2,1410,2,3,93.1
+Mumbai,Powai,2,1000,3,1,180.28
+Mumbai,Bandra,3,740,3,22,186.81
+Mumbai,Thane,2,1330,2,11,184.72
+Jaipur,C-Scheme,2,1420,1,5,81.46
+Noida,Sector 62,5,1660,5,13,140.15
+Kochi,Kakkanad,1,970,2,24,36.09
+Chennai,Porur,3,1750,3,23,93.06
+Bengaluru,Yelahanka,5,1260,5,10,169.86
+Jaipur,C-Scheme,2,890,1,17,38.19
+Chennai,Velachery,5,2500,5,25,153.42
+Kolkata,Rajarhat,2,820,2,25,48.47
+Hyderabad,Madhapur,2,920,1,14,73.51
+Jaipur,C-Scheme,3,1750,3,25,92.6
+Pune,Wakad,4,790,4,23,99.25
+Chandigarh,Sector 44,4,1590,4,12,162.64
+Chennai,Velachery,3,1560,3,6,105.37
+Mohali,Kharar,4,1630,4,9,108.33
+Jaipur,Mansarovar,2,1380,2,14,54.97
+Kochi,Thrippunithura,5,2530,5,1,164.18
+Bengaluru,Electronic City,1,630,1,16,69.75
+Jaipur,Jagatpura,1,890,1,0,45.6
+Lucknow,Hazratganj,3,1790,2,3,94.46
+Noida,Sector 75,1,1170,1,18,43.55
+Gurgaon,Sohna Road,2,970,3,15,103.41
+Noida,Sector 150,3,1730,2,16,114.91
+Mohali,Sector 70,4,1780,4,17,127.97
+Ahmedabad,Bopal,3,1550,3,2,116.47
+Kolkata,Behala,2,1310,1,16,66.77
+Ahmedabad,Thaltej,4,1360,4,0,130.97
+Hyderabad,Miyapur,2,1160,2,2,95.69
+Hyderabad,Madhapur,3,1070,2,2,95.46
+Bengaluru,Indiranagar,3,1360,3,3,119.09
+Hyderabad,Gachibowli,2,970,1,23,60.03
+Hyderabad,Madhapur,2,890,2,4,77.87
+Mohali,Sector 80,3,1290,4,6,99.0
+Hyderabad,Kondapur,3,1210,4,4,111.69
+Hyderabad,Kondapur,2,1260,2,18,79.37
+Kochi,Thrippunithura,2,1550,2,21,57.16
+Noida,Sector 150,4,870,4,21,89.78
+Noida,Sector 75,1,1190,1,18,59.36
+Noida,Sector 150,3,1670,4,20,100.32
+Ahmedabad,Satellite,3,1470,3,24,84.51
+Lucknow,Sushant Golf City,3,1520,3,14,69.33
+Mumbai,Powai,2,1000,1,3,183.94
+Kolkata,Rajarhat,2,700,2,10,62.33
+Delhi,Rohini,4,1870,5,5,200.27
+Jaipur,Malviya Nagar,2,1230,2,0,65.88
+Chandigarh,Sector 22,2,1270,1,18,100.91
+Mohali,Sector 88,3,1460,4,12,98.91
+Gurgaon,Sector 57,4,1640,4,10,150.2
+Hyderabad,Kukatpally,2,970,2,15,74.88
+Chennai,Anna Nagar,2,910,2,19,68.21
+Kolkata,Dum Dum,3,1190,3,13,91.83
+Chandigarh,Sector 35,1,680,1,5,87.53
+Ahmedabad,Satellite,2,1120,2,17,81.27
+Delhi,Rohini,2,1550,2,8,149.16
+Chandigarh,Sector 22,4,1640,4,22,149.37
+Noida,Sector 62,3,1330,4,17,104.05
+Kolkata,New Town,2,1320,2,1,89.67
+Lucknow,Indira Nagar,4,1900,4,15,93.32
+Noida,Sector 62,2,1310,2,14,87.33
+Lucknow,Hazratganj,3,1530,2,25,61.6
+Gurgaon,Sector 57,2,1150,3,15,127.17
+Gurgaon,Dwarka Expressway,1,1150,1,14,98.51
+Kochi,Vyttila,2,1490,2,2,77.96
+Hyderabad,Kondapur,3,1600,3,20,104.73
+Kolkata,Rajarhat,1,1000,1,13,62.5
+Delhi,Saket,2,890,2,24,97.36
+Ahmedabad,Satellite,3,890,3,23,69.93
+Chandigarh,Sector 34,4,980,3,18,112.8
+Jaipur,Vaishali Nagar,2,1170,3,9,65.33
+Kolkata,Dum Dum,3,1590,3,20,85.92
+Chennai,Porur,1,1130,1,11,66.34
+Jaipur,Malviya Nagar,3,1840,2,0,112.57
+Hyderabad,Kukatpally,2,1280,2,13,87.5
+Mohali,Sector 70,3,940,3,17,75.33
+Mohali,Sector 88,3,1710,2,7,94.25
+Lucknow,Aliganj,2,1280,1,5,56.62
+Pune,Baner,3,1750,2,24,102.69
+Ahmedabad,Satellite,3,1310,2,15,93.23
+Jaipur,Vaishali Nagar,2,1090,1,0,72.44
+Gurgaon,Sohna Road,3,1800,3,7,149.04
+Pune,Hinjewadi,3,1780,3,7,140.1
+Mohali,Sector 67,2,1130,1,11,63.17
+Ahmedabad,Maninagar,5,2210,5,24,159.62
+Jaipur,Vaishali Nagar,4,770,4,23,60.02
+Mumbai,Bandra,3,800,3,16,173.94
+Kolkata,Salt Lake,3,1170,4,18,88.2
+Kochi,Aluva,3,1580,3,14,77.87
+Bengaluru,Whitefield,2,1050,2,3,101.43
+Delhi,Dwarka,2,1250,3,1,153.59
+Hyderabad,Kukatpally,1,730,1,0,61.35
+Delhi,Rohini,2,670,2,4,115.21
+Ahmedabad,Vastrapur,4,880,3,6,99.91
+Pune,Hinjewadi,1,840,1,18,49.8
+Pune,Baner,4,1180,4,4,116.36
+Kolkata,Rajarhat,1,720,1,13,45.85
+Noida,Sector 62,5,2220,5,15,162.87
+Bengaluru,Whitefield,2,820,2,1,95.41
+Bengaluru,Whitefield,2,840,3,25,94.79
+Noida,Sector 75,2,1400,2,5,97.84
+Lucknow,Indira Nagar,4,1600,5,6,118.1
+Mumbai,Andheri,1,930,1,16,143.33
+Bengaluru,HSR Layout,1,630,1,24,65.98
+Jaipur,Jagatpura,3,1100,3,4,82.44
+Pune,Baner,3,1370,4,25,104.14
+Mohali,Sector 80,2,610,3,12,53.36
+Noida,Sector 78,2,1140,2,4,90.46
+Delhi,Saket,3,1010,3,22,127.15
+Lucknow,Hazratganj,5,2400,5,12,137.76
+Noida,Sector 137,2,680,1,9,72.67
+Bengaluru,Whitefield,3,1780,2,10,150.35
+Bengaluru,Yelahanka,4,1000,3,10,122.92
+Mohali,Sector 67,2,700,2,18,43.03
+Gurgaon,MG Road,3,810,3,5,135.8
+Chennai,Tambaram,4,1160,5,12,106.42
+Chennai,Anna Nagar,2,860,1,4,73.33
+Noida,Sector 78,2,670,2,16,69.38
+Chennai,Anna Nagar,1,1130,1,16,45.78
+Noida,Sector 75,2,1540,2,25,62.91
+Gurgaon,Golf Course Road,4,1150,3,2,148.35
+Gurgaon,Sohna Road,3,1440,4,25,126.51
+Delhi,Dwarka,3,810,3,17,127.12
+Chennai,Velachery,2,990,3,19,65.82
+Mumbai,Powai,4,2100,3,10,244.39
+Delhi,Rohini,2,1530,2,24,125.52
+Chandigarh,Sector 44,3,1610,3,1,142.91
+Gurgaon,MG Road,4,810,4,6,138.33
+Mohali,Sector 67,4,1520,3,21,103.26
+Ahmedabad,Thaltej,2,760,2,23,60.38
+Noida,Sector 137,4,1730,4,8,142.73
+Chennai,Adyar,3,1420,2,7,101.81
+Hyderabad,Miyapur,4,1450,4,14,113.13
+Jaipur,Mansarovar,3,1410,3,9,83.08
+Mohali,Sector 67,3,1840,3,6,118.67
+Ahmedabad,Maninagar,3,1510,2,20,97.1
+Ahmedabad,Thaltej,4,1280,4,21,104.9
+Gurgaon,Golf Course Road,4,2070,4,9,165.83
+Bengaluru,HSR Layout,3,960,3,23,103.62
+Chennai,Velachery,3,1740,4,18,127.0
+Hyderabad,Kukatpally,2,660,2,4,89.68
+Bengaluru,HSR Layout,4,1040,3,15,125.69
+Chandigarh,Sector 22,3,880,2,4,117.97
+Mumbai,Borivali,2,960,1,10,175.12
+Chandigarh,Sector 35,2,710,3,18,81.38
+Kolkata,Dum Dum,3,1210,3,10,109.09
+Noida,Sector 75,1,680,1,6,57.88
+Mumbai,Powai,4,1150,5,19,193.46
+Lucknow,Gomti Nagar,2,970,3,8,52.21
+Jaipur,Vaishali Nagar,3,1020,4,22,44.03
+Delhi,Dwarka,3,1430,3,16,159.21
+Kochi,Edappally,3,1270,3,0,82.28
+Delhi,Janakpuri,1,1010,1,20,89.67
+Bengaluru,Whitefield,4,1300,4,13,145.35
+Jaipur,Malviya Nagar,2,1450,3,8,83.6
+Chennai,Anna Nagar,4,1790,4,25,123.94
+Gurgaon,Golf Course Road,2,1470,2,25,110.63
+Gurgaon,Golf Course Road,3,1280,3,14,126.29
+Noida,Sector 78,3,960,3,16,74.49
+Pune,Kharadi,2,1390,3,1,102.23
+Bengaluru,Whitefield,3,1080,3,8,109.45
+Chennai,Tambaram,3,1230,3,14,98.75
+Mumbai,Borivali,3,1690,4,19,206.9
+Pune,Wakad,4,1980,4,10,149.55
+Delhi,Dwarka,3,960,3,11,145.29
+Mumbai,Bandra,3,1680,3,3,202.86
+Gurgaon,Golf Course Road,3,820,3,1,132.86
+Jaipur,C-Scheme,4,970,4,0,93.52
+Kolkata,Salt Lake,3,900,3,3,91.06
+Ahmedabad,Bopal,2,1520,2,14,87.56
+Gurgaon,MG Road,4,1820,5,20,161.98
+Bengaluru,Electronic City,3,1530,3,22,112.33
+Hyderabad,Kukatpally,2,1410,1,16,82.61
+Noida,Sector 137,5,2050,5,1,179.59
+Delhi,Janakpuri,4,1860,4,23,172.71
+Lucknow,Gomti Nagar,4,1340,4,17,80.71
+Chennai,Adyar,4,1810,4,24,106.85
+Chennai,Adyar,5,980,5,23,90.81
+Ahmedabad,Vastrapur,1,840,1,1,64.2
+Jaipur,Mansarovar,3,1380,3,2,82.99
+Kolkata,Salt Lake,2,1110,1,11,62.91
+Noida,Sector 78,3,1900,2,3,136.05
+Mumbai,Thane,2,1360,1,12,180.42
+Kolkata,Dum Dum,3,740,3,10,73.14
+Mumbai,Andheri,2,1200,2,21,173.01
+Noida,Sector 75,3,1830,3,0,132.87
+Kolkata,New Town,3,970,3,13,88.16
+Kolkata,New Town,3,1440,4,1,125.41
+Mohali,Kharar,2,1330,2,12,67.93
+Hyderabad,Kukatpally,2,1210,2,21,91.55
+Mumbai,Borivali,4,980,3,0,202.42
+Lucknow,Indira Nagar,2,1460,3,4,70.02
+Noida,Sector 78,4,2030,5,14,138.85
+Ahmedabad,Maninagar,4,1300,4,3,105.66
+Jaipur,Mansarovar,3,870,4,11,73.16
+Lucknow,Hazratganj,2,950,2,15,34.69
+Ahmedabad,Satellite,4,2040,4,17,131.78
+Gurgaon,MG Road,3,1670,4,12,158.94
+Kolkata,Rajarhat,3,870,3,7,90.02
+Delhi,Vasant Kunj,2,620,2,25,96.24
+Ahmedabad,Thaltej,3,1860,3,11,101.86
+Jaipur,Malviya Nagar,3,1650,3,15,81.76
+Kolkata,Behala,4,1160,5,18,101.65
+Kolkata,Behala,2,1460,3,12,87.97
+Kolkata,Salt Lake,3,970,4,20,73.91
+Jaipur,Malviya Nagar,2,920,1,15,39.81
+Chandigarh,Sector 34,2,1170,2,20,113.04
+Kolkata,Rajarhat,3,1370,2,23,93.4
+Chennai,Tambaram,2,1390,3,4,94.01
+Lucknow,Indira Nagar,4,1650,3,7,99.44
+Jaipur,Jagatpura,4,1670,4,15,118.64
+Delhi,Vasant Kunj,3,1780,4,0,192.93
+Mumbai,Borivali,2,1490,2,25,177.54
+Ahmedabad,Satellite,2,850,2,2,80.3
+Noida,Sector 62,3,830,2,12,74.62
+Jaipur,C-Scheme,2,1410,2,18,54.15
+Noida,Sector 78,3,1140,4,15,92.51
+Gurgaon,Sohna Road,3,1230,3,3,142.43
+Lucknow,Gomti Nagar,2,1520,1,25,35.75
+Chandigarh,Sector 35,2,650,2,12,101.97
+Gurgaon,Golf Course Road,3,1220,3,21,119.07
+Lucknow,Aliganj,3,1510,3,7,86.72
+Jaipur,Jagatpura,2,800,1,23,26.74
+Ahmedabad,Vastrapur,2,1380,2,19,80.33
+Kolkata,New Town,3,1300,3,3,113.54
+Lucknow,Hazratganj,5,1840,5,24,112.23
+Chennai,Velachery,2,970,2,21,63.83
+Lucknow,Indira Nagar,2,700,2,2,49.84
+Bengaluru,Electronic City,3,930,3,8,99.51
+Delhi,Dwarka,4,1770,4,19,166.1
+Pune,Kharadi,4,2070,5,8,160.24
+Ahmedabad,Bopal,1,1070,1,17,47.73
+Delhi,Janakpuri,3,1520,2,21,132.86
+Kolkata,Behala,2,1050,3,10,68.52
+Gurgaon,Dwarka Expressway,2,780,2,18,94.13
+Gurgaon,Dwarka Expressway,2,1360,2,15,124.56
+Kolkata,Dum Dum,3,1640,3,8,100.37
+Gurgaon,Sector 57,3,1450,3,23,113.56
+Mumbai,Powai,2,1430,3,6,190.64
+Pune,Viman Nagar,3,1580,2,12,113.51
+Kochi,Vyttila,2,1190,2,2,72.94
+Ahmedabad,Maninagar,2,1030,2,23,54.04
+Lucknow,Aliganj,3,1830,2,6,82.67
+Mumbai,Powai,3,1900,2,8,215.2
+Lucknow,Indira Nagar,3,840,4,5,73.71
+Gurgaon,MG Road,4,1580,4,22,152.89
+Hyderabad,Kukatpally,3,1340,3,15,103.49
+Mohali,Sector 70,1,1080,1,11,58.98
+Mohali,Sector 70,3,1660,4,7,110.58
+Chandigarh,Sector 22,3,1470,3,7,142.82
+Noida,Sector 150,2,1310,2,13,82.19
+Chennai,Anna Nagar,3,1290,3,0,101.4
+Bengaluru,Indiranagar,3,970,3,0,129.74
+Chennai,Velachery,2,1400,2,1,104.44
+Mohali,Sector 88,4,950,4,12,98.57
+Noida,Sector 62,3,1880,3,12,111.46
+Kochi,Thrippunithura,3,1000,3,6,67.59
+Hyderabad,Kondapur,1,1060,2,3,91.11
+Lucknow,Sushant Golf City,2,1330,2,5,70.38
+Mumbai,Andheri,2,750,3,25,150.62
+Pune,Kharadi,3,720,3,11,77.64
+Kolkata,Rajarhat,2,790,2,10,63.28
+Delhi,Janakpuri,2,890,2,17,111.34
+Mumbai,Borivali,4,1920,4,10,242.29
+Chennai,Porur,2,880,2,20,74.61
+Bengaluru,Whitefield,2,1070,1,1,111.67
+Mohali,Sector 70,2,1180,1,0,76.64
+Noida,Sector 62,2,1310,2,11,95.37
+Gurgaon,Sector 57,1,670,2,3,103.74
+Ahmedabad,Bopal,3,1370,2,24,85.71
+Bengaluru,Electronic City,3,1300,3,17,129.79
+Pune,Wakad,2,1210,2,19,78.85
+Pune,Kharadi,3,1170,2,9,99.63
+Chandigarh,Sector 22,4,800,4,17,127.19
+Bengaluru,Electronic City,2,1450,2,7,107.96
+Delhi,Saket,3,900,4,3,143.22
+Mumbai,Thane,2,1380,2,3,189.07
+Noida,Sector 75,1,880,1,17,60.09
+Hyderabad,Miyapur,3,1390,2,7,111.72
+Lucknow,Gomti Nagar,3,1010,3,16,55.9
+Hyderabad,Kukatpally,2,1190,3,7,96.08
+Delhi,Vasant Kunj,2,940,2,11,121.91
+Noida,Sector 75,3,1220,3,6,112.38
+Chandigarh,Sector 48,4,2060,4,0,179.1
+Lucknow,Sushant Golf City,2,1120,2,17,32.39
+Ahmedabad,Thaltej,1,640,1,6,36.54
+Hyderabad,Kondapur,3,1790,3,3,126.91
+Lucknow,Gomti Nagar,4,1490,5,17,93.33
+Mumbai,Bandra,4,1220,4,12,202.65
+Kolkata,Behala,4,1700,4,0,143.45
+Bengaluru,Whitefield,3,1320,4,20,114.8
+Ahmedabad,Vastrapur,3,850,3,18,84.16
+Kolkata,Salt Lake,3,1790,3,20,118.75
+Delhi,Rohini,2,1440,1,24,130.58
+Gurgaon,Sector 57,2,790,2,5,113.57
+Ahmedabad,Bopal,2,630,1,22,45.81
+Bengaluru,Indiranagar,3,860,3,7,106.6
+Lucknow,Aliganj,3,770,3,19,46.64
+Mumbai,Borivali,3,1150,3,12,200.33
+Noida,Sector 62,3,1240,2,7,101.34
+Jaipur,Vaishali Nagar,2,1020,2,24,29.27
+Kolkata,Salt Lake,3,1470,2,23,76.18
+Hyderabad,Miyapur,2,630,2,18,64.94
+Jaipur,Malviya Nagar,3,840,2,22,52.99
+Kolkata,Dum Dum,4,1330,4,1,122.87
+Gurgaon,Golf Course Road,2,1280,2,9,112.85
+Bengaluru,Electronic City,1,1040,1,14,79.53
+Chandigarh,Sector 48,3,1240,3,2,143.85
+Gurgaon,Golf Course Road,1,630,1,1,96.2
+Delhi,Dwarka,2,1540,2,21,131.94
+Chennai,Porur,2,640,2,10,61.24
+Mohali,Sector 88,2,1260,2,10,69.43
+Lucknow,Sushant Golf City,5,1700,5,25,111.52
+Ahmedabad,Vastrapur,4,1680,4,16,116.46
+Mohali,Sector 80,1,550,1,23,25.0
+Kolkata,Salt Lake,1,660,1,8,37.87
+Jaipur,Mansarovar,2,1290,3,0,85.49
+Chennai,Velachery,3,1270,3,17,82.75
+Kolkata,Behala,3,1510,4,17,90.87
+Delhi,Rohini,2,640,2,20,100.64
+Noida,Sector 150,3,1070,2,8,100.48
+Chandigarh,Sector 48,2,720,1,24,81.67
+Bengaluru,Electronic City,2,1060,3,9,115.76
+Jaipur,Malviya Nagar,2,640,2,22,39.78
+Gurgaon,Sohna Road,2,1450,1,16,119.76
+Chandigarh,Sector 35,2,880,3,10,99.88
+Ahmedabad,Thaltej,3,940,3,17,73.51
+Delhi,Saket,3,1100,3,1,146.39
+Hyderabad,Miyapur,2,1170,3,20,94.96
+Lucknow,Sushant Golf City,1,1150,1,18,28.37
+Jaipur,Jagatpura,3,1840,3,19,70.41
+Gurgaon,Sector 57,3,730,3,3,124.14
+Bengaluru,Yelahanka,2,1380,1,10,109.44
+Chandigarh,Sector 48,2,760,2,12,108.49
+Ahmedabad,Vastrapur,3,980,2,23,67.54
+Kolkata,New Town,4,1030,4,2,109.69
+Jaipur,Vaishali Nagar,2,1380,3,24,60.12
+Hyderabad,Kukatpally,3,930,3,9,94.5
+Kochi,Vyttila,5,1870,5,16,115.15
+Mumbai,Andheri,3,1680,3,3,222.48
+Pune,Kharadi,2,1020,2,21,59.6
+Hyderabad,Madhapur,2,1430,2,4,100.24
+Bengaluru,Whitefield,2,1370,2,25,95.45
+Gurgaon,Dwarka Expressway,2,820,2,19,89.6
+Kochi,Thrippunithura,3,730,2,18,35.35
+Lucknow,Sushant Golf City,5,2570,5,14,152.13
+Jaipur,Vaishali Nagar,3,1340,4,9,91.78
+Kochi,Aluva,3,1090,3,25,50.84
+Noida,Sector 78,2,1200,3,5,82.17
+Chennai,Velachery,2,680,2,8,63.58
+Bengaluru,Yelahanka,3,1490,3,25,112.88
+Mumbai,Thane,5,2540,5,4,295.33
+Lucknow,Aliganj,2,1300,2,1,68.68
+Mohali,Sector 88,3,1600,4,7,118.1
+Mumbai,Thane,4,1430,4,16,219.04
+Hyderabad,Kukatpally,4,2040,4,8,149.53
+Lucknow,Aliganj,3,1400,3,16,71.33
+Gurgaon,Sohna Road,1,600,1,21,67.59
+Delhi,Dwarka,4,1740,4,19,160.44
+Jaipur,C-Scheme,3,910,2,22,53.19
+Mohali,Sector 88,3,1500,3,8,94.31
+Mumbai,Thane,4,1160,4,2,223.0
+Bengaluru,Yelahanka,3,950,2,14,92.17
+Chennai,Velachery,4,990,3,1,110.83
+Kolkata,Rajarhat,3,1180,2,17,67.2
+Kolkata,Behala,2,890,1,20,44.0
+Gurgaon,Dwarka Expressway,3,1040,3,5,137.17
+Delhi,Saket,3,1760,3,23,127.41
+Hyderabad,Gachibowli,3,1470,3,17,122.24
+Pune,Hinjewadi,2,810,3,14,65.46
+Delhi,Dwarka,3,1280,2,15,134.35
+Jaipur,Vaishali Nagar,4,1980,3,14,101.6
+Ahmedabad,Thaltej,2,1370,2,10,100.82
+Ahmedabad,Thaltej,2,1400,2,24,71.28
+Bengaluru,HSR Layout,3,1220,4,1,127.04
+Kochi,Aluva,2,620,1,22,26.82
+Lucknow,Aliganj,2,1210,3,14,55.15
+Chennai,Porur,4,1700,4,11,128.17
+Ahmedabad,Vastrapur,4,2230,5,7,142.06
+Bengaluru,Indiranagar,3,880,2,1,119.42
+Noida,Sector 75,1,1030,2,5,70.85
+Chennai,Porur,3,1200,3,7,103.25
+Hyderabad,Madhapur,1,920,1,13,53.95
+Lucknow,Aliganj,3,1870,3,10,94.24
+Chennai,Tambaram,2,930,2,19,59.69
+Kolkata,Salt Lake,2,1420,2,6,93.37
+Chandigarh,Sector 22,2,1150,3,4,136.41
+Lucknow,Sushant Golf City,1,890,1,25,25.0
+Mumbai,Powai,4,970,4,7,204.27
+Gurgaon,MG Road,3,720,3,14,108.13
+Chennai,Velachery,4,870,4,16,83.6
+Noida,Sector 137,3,790,3,23,66.61
+Hyderabad,Kondapur,3,740,3,5,89.06
+Pune,Baner,3,1480,4,22,93.34
+Jaipur,Jagatpura,2,670,2,14,37.63
+Kolkata,Behala,3,1140,2,6,84.99
+Delhi,Dwarka,2,720,2,15,118.56
+Jaipur,C-Scheme,4,1470,4,14,99.79
+Gurgaon,MG Road,3,1190,3,20,127.17
+Chennai,Tambaram,2,730,2,5,77.28
+Bengaluru,HSR Layout,2,1510,3,5,134.54
+Jaipur,Malviya Nagar,2,720,2,18,25.0
+Pune,Wakad,2,1030,2,17,64.93
+Chennai,Anna Nagar,2,1520,3,16,97.87
+Ahmedabad,Bopal,3,1570,3,10,118.4
+Mohali,Sector 70,2,1400,2,11,70.11
+Kochi,Vyttila,2,690,2,21,34.54
+Ahmedabad,Thaltej,4,2110,4,12,128.27
+Pune,Wakad,5,2380,4,6,180.0
+Noida,Sector 75,3,1190,4,19,91.36
+Delhi,Janakpuri,3,800,3,20,125.65
+Bengaluru,Electronic City,2,970,3,15,98.9
+Chennai,Adyar,1,530,1,9,47.03
+Hyderabad,Madhapur,3,1520,3,0,131.24
+Ahmedabad,Maninagar,3,1740,3,22,109.04
+Ahmedabad,Satellite,2,1040,2,11,64.6
+Mohali,Sector 67,3,1820,4,6,117.28
+Gurgaon,Sector 57,4,1780,4,8,178.16
+Mumbai,Bandra,3,1140,3,13,183.82
+Chandigarh,Sector 48,3,1700,4,17,159.92
+Delhi,Rohini,4,1480,4,22,169.88
+Pune,Baner,3,720,2,7,83.18
+Delhi,Vasant Kunj,3,1640,2,0,181.68
+Kolkata,Dum Dum,1,610,1,1,62.31
+Chandigarh,Sector 48,4,1040,4,0,153.84
+Bengaluru,Yelahanka,3,1430,4,18,124.94
+Mohali,Sector 80,4,1560,3,6,120.45
+Jaipur,Vaishali Nagar,2,940,2,13,33.89
+Delhi,Janakpuri,2,1330,2,17,133.83
+Lucknow,Indira Nagar,3,1710,3,17,86.02
+Noida,Sector 75,4,1310,3,21,85.19
+Bengaluru,Indiranagar,2,1170,1,23,75.96
+Ahmedabad,Maninagar,2,1400,2,8,97.12
+Hyderabad,Kondapur,3,1420,3,15,109.32
+Chandigarh,Sector 22,1,1020,1,15,76.72
+Ahmedabad,Thaltej,2,680,3,24,46.99
+Kolkata,Behala,3,1340,2,24,72.56
+Hyderabad,Miyapur,3,730,4,21,74.0
+Lucknow,Hazratganj,3,820,3,21,38.25
+Mumbai,Powai,2,1170,2,19,175.75
+Bengaluru,HSR Layout,2,1310,1,24,91.28
+Pune,Hinjewadi,3,990,3,18,86.57
+Kolkata,Behala,1,970,1,18,35.66
+Pune,Kharadi,3,1080,2,25,82.65
+Jaipur,Mansarovar,2,890,2,6,56.25
+Mohali,Sector 67,1,1200,1,25,25.0
+Pune,Wakad,1,1070,1,13,70.0
+Hyderabad,Kukatpally,2,1000,2,19,71.99
+Kolkata,Salt Lake,3,950,3,8,85.26
+Ahmedabad,Satellite,3,1130,3,7,88.7
+Gurgaon,Sohna Road,3,1710,3,9,147.97
+Chandigarh,Sector 34,2,1390,2,15,115.04
+Bengaluru,Whitefield,2,1370,3,5,113.47
+Kochi,Kakkanad,2,890,1,13,56.31
+Gurgaon,Golf Course Road,2,1150,3,3,127.63
+Kochi,Kakkanad,2,720,2,10,56.01
+Chandigarh,Sector 22,2,810,2,14,97.23
+Delhi,Saket,3,1260,3,8,163.5
+Mumbai,Borivali,1,1030,1,22,149.95
+Lucknow,Indira Nagar,4,1780,5,7,135.65
+Mohali,Sector 67,2,1380,2,9,87.85
+Noida,Sector 75,3,1020,2,24,72.96
+Kochi,Kakkanad,4,1800,5,2,128.9
+Mumbai,Andheri,3,910,3,25,166.15
+Delhi,Rohini,2,1280,2,19,132.64
+Mohali,Sector 80,3,1690,3,6,108.81
+Ahmedabad,Bopal,1,550,2,20,28.61
+Gurgaon,Golf Course Road,1,940,2,8,85.9
+Kolkata,Rajarhat,3,1810,3,3,112.73
+Lucknow,Hazratganj,2,1020,2,19,38.7
+Noida,Sector 137,1,1180,1,19,50.09
+Chennai,Adyar,4,2210,4,21,112.8
+Kolkata,New Town,1,1150,1,11,66.55
+Mumbai,Andheri,2,1190,2,12,177.98
+Bengaluru,Yelahanka,3,1100,3,4,117.53
+Bengaluru,Indiranagar,4,2010,4,13,151.92
+Pune,Kharadi,4,1240,4,24,108.01
+Chandigarh,Sector 22,1,650,1,8,80.79
+Chennai,Anna Nagar,5,1830,5,15,127.65
+Mohali,Sector 80,4,1880,4,18,123.15
+Ahmedabad,Bopal,2,680,2,21,33.69
+Pune,Viman Nagar,4,930,4,4,117.36
+Mohali,Kharar,3,1090,2,20,74.4
+Noida,Sector 78,2,1420,2,10,87.31
+Mohali,Sector 80,2,1330,2,2,85.58
+Jaipur,Malviya Nagar,2,1070,2,23,54.01
+Gurgaon,Sector 57,3,1280,3,15,123.92
+Bengaluru,Indiranagar,3,800,4,10,118.45
+Kolkata,Dum Dum,2,1050,1,25,50.05
+Kolkata,Rajarhat,2,650,1,1,69.23
+Gurgaon,Sector 57,2,1160,3,0,125.3
+Delhi,Vasant Kunj,4,1210,5,23,169.05
+Gurgaon,Golf Course Road,2,680,3,8,101.62
+Bengaluru,Indiranagar,3,1180,4,23,118.87
+Lucknow,Hazratganj,3,800,3,0,63.7
+Chennai,Adyar,3,1220,4,6,91.38
+Kochi,Edappally,3,1230,3,15,76.29
+Hyderabad,Gachibowli,2,710,2,13,66.17
+Chennai,Tambaram,3,1410,4,21,94.97
+Ahmedabad,Vastrapur,3,1010,3,15,81.31
+Bengaluru,HSR Layout,3,1260,3,7,131.81
+Lucknow,Hazratganj,2,890,2,13,48.51
+Gurgaon,Golf Course Road,3,1030,2,21,113.78
+Chennai,Anna Nagar,2,1130,1,11,81.25
+Mumbai,Andheri,2,720,2,3,178.4
+Noida,Sector 78,2,750,3,19,65.54
+Gurgaon,Sohna Road,5,2220,5,25,178.61
+Delhi,Rohini,4,1000,4,22,154.44
+Pune,Baner,2,800,2,24,62.02
+Delhi,Saket,2,1320,2,20,126.1
+Noida,Sector 75,2,990,2,16,62.72
+Noida,Sector 78,4,900,4,12,93.4
+Jaipur,Malviya Nagar,4,860,5,9,92.87
+Pune,Wakad,1,720,2,19,51.96
+Noida,Sector 78,3,1530,3,24,91.95
+Lucknow,Aliganj,3,1340,3,2,73.94
+Kochi,Thrippunithura,3,980,3,23,47.89
+Kolkata,Behala,2,1320,1,14,72.73
+Ahmedabad,Thaltej,3,1820,4,19,101.48
+Bengaluru,Indiranagar,3,990,3,16,114.49
+Gurgaon,Dwarka Expressway,2,670,2,15,99.2
+Noida,Sector 75,4,1630,4,14,129.31
+Kolkata,Salt Lake,3,1240,4,16,90.72
+Pune,Hinjewadi,3,1180,2,11,103.17
+Mohali,Sector 67,3,1650,3,25,77.37
+Gurgaon,Dwarka Expressway,1,900,1,1,109.79
+Chennai,Porur,2,740,2,24,60.49
+Jaipur,C-Scheme,2,830,2,10,52.18
+Gurgaon,Golf Course Road,3,1380,3,17,126.48
+Noida,Sector 62,4,1540,4,16,119.02
+Noida,Sector 137,2,1270,3,14,79.29
+Kochi,Kakkanad,2,780,1,16,36.17
+Bengaluru,Electronic City,2,690,2,13,92.74
+Mohali,Sector 88,2,740,2,8,65.28
+Ahmedabad,Bopal,3,1600,3,3,103.24
+Jaipur,Malviya Nagar,4,800,5,18,61.07
+Hyderabad,Miyapur,2,1210,2,25,77.16
+Hyderabad,Kukatpally,3,690,3,19,70.48
+Ahmedabad,Vastrapur,4,1330,4,20,105.39
+Delhi,Saket,2,1270,2,23,129.49
+Pune,Wakad,3,1880,3,8,126.3
+Mumbai,Bandra,3,690,3,0,191.09
+Noida,Sector 75,3,1640,2,17,93.0
+Gurgaon,Dwarka Expressway,4,1300,4,24,136.36
+Mumbai,Bandra,3,1610,3,6,198.99
+Chennai,Anna Nagar,1,860,2,6,57.71
+Kolkata,Rajarhat,2,790,3,21,46.82
+Mohali,Kharar,4,2070,4,6,148.84
+Jaipur,C-Scheme,4,770,4,20,79.26
+Hyderabad,Kondapur,2,1100,2,11,100.14
+Kolkata,Rajarhat,2,980,2,2,87.49
+Delhi,Rohini,2,920,1,20,122.4
+Kochi,Vyttila,4,1140,4,7,100.46
+Delhi,Janakpuri,3,1610,3,18,164.02
+Lucknow,Gomti Nagar,3,770,3,1,65.33
+Mohali,Sector 88,2,1190,2,7,80.7
+Hyderabad,Kukatpally,3,1100,2,14,101.72
+Ahmedabad,Bopal,4,960,5,8,101.54
+Mumbai,Andheri,2,1160,3,20,164.49
+Mohali,Kharar,2,960,1,16,61.27
+Gurgaon,Sohna Road,2,790,2,20,94.16
+Chennai,Porur,3,1720,4,10,121.4
+Mumbai,Powai,2,610,2,22,149.95
+Pune,Kharadi,2,780,1,11,70.07
+Jaipur,C-Scheme,4,1300,3,6,87.51
+Kolkata,Salt Lake,2,630,2,3,58.12
+Kochi,Edappally,2,840,2,21,37.64
+Lucknow,Gomti Nagar,2,1440,2,25,47.62
+Jaipur,Malviya Nagar,4,1900,5,6,126.81
+Mohali,Sector 80,4,2200,4,6,149.24
+Hyderabad,Kukatpally,2,1100,2,10,85.46
+Ahmedabad,Maninagar,3,1650,2,6,103.04
+Kochi,Aluva,3,1820,3,8,95.44
+Ahmedabad,Satellite,3,1440,3,14,99.02
+Bengaluru,Indiranagar,2,1220,2,2,109.07
+Chandigarh,Sector 34,2,950,3,6,115.44
+Gurgaon,Sector 57,2,1180,2,24,94.01
+Pune,Kharadi,4,1990,3,15,139.22
+Lucknow,Aliganj,3,1310,4,24,76.78
+Hyderabad,Miyapur,2,1030,3,0,86.82
+Noida,Sector 150,2,1000,2,24,75.19
+Kochi,Edappally,2,1510,2,18,73.62
+Chandigarh,Sector 44,1,790,1,3,85.22
+Jaipur,C-Scheme,2,1390,3,15,59.33
+Mohali,Kharar,1,570,2,0,43.98
+Kolkata,Rajarhat,3,770,3,4,78.06
+Ahmedabad,Vastrapur,3,1300,3,8,99.55
+Chandigarh,Sector 48,2,1150,2,14,112.38
+Pune,Wakad,2,1380,2,13,97.44
+Bengaluru,Yelahanka,2,1270,1,7,114.82
+Delhi,Rohini,4,1380,5,3,172.05
+Chennai,Adyar,2,1090,2,0,93.09
+Gurgaon,Golf Course Road,2,620,1,22,72.74
+Kolkata,Salt Lake,3,1220,3,8,89.68
+Kolkata,Rajarhat,2,1240,1,21,64.49
+Kolkata,Salt Lake,3,750,4,20,60.5
+Ahmedabad,Satellite,1,780,1,7,64.31
+Pune,Baner,3,770,2,25,76.56
+Gurgaon,Sector 57,2,1200,3,6,123.67
+Pune,Baner,1,970,1,12,68.17
+Mumbai,Andheri,4,1380,5,15,215.78
